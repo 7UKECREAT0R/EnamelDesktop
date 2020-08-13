@@ -1,2 +1,2 @@
 # EnamelDesktop
-Custom desktop overlay with fun animations and animated wallpapers. Still in very early development.
+Custom desktop with EPIC animations and ANIMATED wallpapers. Probably won't be finished because it wasn't intended to become a full thing.
